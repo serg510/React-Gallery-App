@@ -9,3 +9,18 @@ Then I will:
 - Use the Fetch API or a tool like Axios to fetch data from the Flickr API and use it to display images in your app.
 - Add logic to handle the search and various requirements of the project.
 - Add to the supplied CSS to personalize the project.
+
+              Get Started
+
+step 1:
+To install dependencies
+npm install
+
+step 2:
+create a config.js file in the src folder, add the flickr api key into config.js
+const apiKey = '';
+export default apiKey;
+
+step 3:
+npm start
+Open http://localhost:3000 to view it in the browser.
